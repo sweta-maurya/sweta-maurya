@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me:
 - 🔭 I’m currently working on *AI, Web Development & Cybersecurity Projects*
-- 🌱 I’m currently learning *DevOps, Linux, and Ethical Hacking*
+- 🌱 I’m currently learning *DevOps, and Ethical Hacking*
 - 💬 Ask me about *MERN Stack, Python, AI Projects, and APIs*
 - ⚡ Fun fact: I love debugging more than writing code 😉
 
