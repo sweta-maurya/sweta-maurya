@@ -29,7 +29,6 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
   <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="OpenCV"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-yolo-you-only-look-once-a-real-time-object-detection-variant-logo-color-tal-revivo.png" alt="YOLO"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
